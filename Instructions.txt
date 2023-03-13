@@ -1,0 +1,3 @@
+Run main.py for training
+Run DEMO1.py for generating result.
+
