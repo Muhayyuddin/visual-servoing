@@ -32,6 +32,16 @@ pip install -r requirements.txt
 
 will be updated soon
 
-## Demo
+## Training
 
-will be updated soon
+Inorder to train the GANs on the existing dataset run the following command  
+
+```
+python3 main.py 
+```
+## Demo
+To generate results in the result folder  run 
+
+```
+python3 DEMO1.py 
+```
