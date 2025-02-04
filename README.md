@@ -50,9 +50,9 @@ The output video will be stored in the output_video directory
 Please cite the article as below 
 ```cite
 @INPROCEEDINGS{muhayy2023,
-  author={Ahmed, Muhayyuddin and Bakht, Ahsan Baidar and Hassan, Taimur and Akram, Waseem and Humais, Ahmed and Seneviratne, Lakmal and He, Shaoming and Lin, Defu and Hussain, Irfan},
   booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
-  title={Vision-Based Autonomous Navigation for Unmanned Surface Vessel in Extreme Marine Conditions}, 
+  title={Vision-Based Autonomous Navigation for Unmanned Surface Vessel in Extreme Marine Conditions},
+  author={Ahmed, Muhayyuddin and Bakht, Ahsan Baidar and Hassan, Taimur and Akram, Waseem and Humais, Ahmed and Seneviratne, Lakmal and He, Shaoming and Lin, Defu and Hussain, Irfan},
   year={2023},
   pages={7097-7103},
   doi={10.1109/IROS55552.2023.10341867}}
